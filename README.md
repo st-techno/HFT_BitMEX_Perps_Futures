@@ -4,7 +4,7 @@
 
 HFT Trading Strategy for BitMEX BTC-USDT Perps Futures 
 
-This is Production-Grade Python framework for institutional HFT on BitMEX BTC-USDT Perps, integrating:
+This is Insitutional Level Production Grade Python framework for HFT on BitMEX BTC-USDT Perps, integrating:
 
 Real BitMEX data via the official SDK and WebSocket API for live L2 order book features and trade ticks.
 
