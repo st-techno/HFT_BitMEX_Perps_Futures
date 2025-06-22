@@ -46,5 +46,3 @@ References:
 
 BitMEX official SDK and API
 
-This Python framework is ready for institutional research and simulation, and can be extended for live trading and more advanced ML architectures.
-
